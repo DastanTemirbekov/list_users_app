@@ -1,0 +1,12 @@
+{
+    "appBarTitle": "All Users",
+    "refresh": "Refresh",
+    "detailInfo":"Detail information",
+    "name":"Name",
+    "value":"Value",
+    "location":"Location",
+    "company":"Company",
+    "followers":"Followers",
+    "twitter":"Twitter",
+    "type":"Type"
+}

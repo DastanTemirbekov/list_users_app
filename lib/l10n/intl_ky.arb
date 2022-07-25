@@ -1,0 +1,12 @@
+{
+    "appBarTitle": "Баары",
+    "refresh": "Жаңыртуу",
+    "detailInfo":"Толук маалымат",
+    "name":"Аты",
+    "value":"Мазмун",
+    "location":"Жайгашкан жери",
+    "company":"Компания",
+    "followers":"Каттоочулар",
+    "twitter":"Твиттер",
+    "type":"Тип"
+}

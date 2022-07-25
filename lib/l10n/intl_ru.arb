@@ -1,0 +1,12 @@
+{
+    "appBarTitle": "Все пользователи",
+    "refresh": "Обновить",
+    "detailInfo":"Детальная информация",
+    "name":"Имя",
+    "value":"Значение",
+    "location":"Локация",
+    "company":"Компания",
+    "followers":"Подпиcxbrb",
+    "twitter":"Твиттер",
+    "type":"Тип"
+}
